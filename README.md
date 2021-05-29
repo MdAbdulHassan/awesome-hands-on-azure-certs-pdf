@@ -26,3 +26,14 @@ curl -sOL https://raw.githubusercontent.com/MdAbdulHassan/awesome-hands-on-azure
 bash clone_MicrosoftLearning_certs_en_repositories.sh
 bash merge_and_convert_md_files_recursively_to_pdf.sh
 ```
+
+Other Useful Resources :
+<br>
+[ Top 10 Azure resources that you can use today
+ ](https://microsoft.github.io/AzureTipsAndTricks/blog/tip276.html)
+ <br>
+ [ Download all Azure Documentation for offline viewing ](https://microsoft.github.io/AzureTipsAndTricks/blog/tip128.html)
+ <br>
+ [Azure Tips and Tricks, is a special collection hundreds of tips in form of blog posts and videos](https://aka.ms/azuretipsandtricks)
+ <br>
+ [@Azure-Samples, Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby](https://github.com/Azure-Samples)
